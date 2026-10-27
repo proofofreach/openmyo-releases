@@ -1,0 +1,18 @@
+OpenMYO for Mac includes these open-source components:
+
+FFmpeg 9.0.2 (static build by Martin Riedl, https://ffmpeg.martin-riedl.de/)
+  Licence: GNU General Public License version 3 (FFmpeg-GPL-3.0.txt in this folder).
+  Complete corresponding source: attached to each OpenMYO release at
+  https://github.com/proofofreach/openmyo-releases/releases
+  (also available from https://ffmpeg.org/releases/ffmpeg-9.0.2.tar.xz).
+
+yt-dlp (https://github.com/yt-dlp/yt-dlp)
+  Released into the public domain (The Unlicense).
+
+Python 3.12 (python-build-standalone, https://github.com/astral-sh/python-build-standalone)
+  Python Software Foundation License; bundled libraries under their own licences (see python/ inside helper-runtime).
+
+Electron and Chromium
+  MIT and BSD-style licences: see LICENSE and LICENSES.chromium.html in this app's Resources folder.
+
+Questions: team@openmyo.com
